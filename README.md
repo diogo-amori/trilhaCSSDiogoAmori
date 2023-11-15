@@ -1,4 +1,6 @@
 # Desafio 01: Criando sua primeira Landing Page com HTML e CSS
+    
+    fork: Diogo Amori (nota ao final deste README)
 
 Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
 as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha.
@@ -20,3 +22,7 @@ que você possa se basear.
 
 Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch *final*. Basta alterar a branch do projeto
 utilizando o comando `git checkout final` no seu terminal.
+
+
+___
+Nota do autor deste fork: Troquei o estilo do botão da primeira DIV e da lista da segunda div, inserindo um novo comportamento para quando o mouse passa por cima dos elementos.
